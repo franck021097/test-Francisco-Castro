@@ -1,0 +1,8 @@
+Paso 1
+	Con el PSD, el look y excel que se comparte, realizar una maqueta de html para email 
+	lo más apegada al look, con sus respectivos links y estilos, usar los materiales para cortar imágenes
+	y colocar textos al contenido de la pieza.
+
+Paso 2
+	Crear un formulario de contacto que guarde en una base de datos Nombre, email y teléfono, 
+	no importa la tecnología que se utilice pero que se pueda comprobar el registro.
